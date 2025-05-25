@@ -10,7 +10,7 @@ const Welcome = () => {
             <button>Iniciar</button>
             <img src={Quiz} alt="Inicio do Quiz" />
         </div>
-    )
-}
+    );
+};
 
 export default Welcome;
