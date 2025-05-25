@@ -1,4 +1,6 @@
-import Quiz from "../assets/quiz.svg"
+import Quiz from "../img/quiz.svg"
+
+import "./Welcome.css"
 
 const Welcome = () => {
     return (
@@ -11,4 +13,4 @@ const Welcome = () => {
     )
 }
 
-export default Welcome
+export default Welcome;
